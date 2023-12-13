@@ -1,0 +1,6 @@
+Page assignments 
+(shouldn't get referenced anywhere else)
+Will: Main Page
+Bryant: Order/Menu Page
+Ethan: Contact Page
+Trevin: Events Page
