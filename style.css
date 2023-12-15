@@ -2,6 +2,28 @@ h1 {
     text-align: center;
 }
 
+/*Events.html styling*/
+
+.bg-image-christmas {
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: -1;
+    background: url(/imgs/christmas-Event.jpg) no-repeat;
+    filter: blur(4px) grayscale(20%);
+    background-size: cover;
+    height: 300px;
+}
+
+#content-christmas {
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    filter: none;
+    margin: 40px 20px 40px 20px;
+}
+
 .card-group {
     display: flex;
 }
