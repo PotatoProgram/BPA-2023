@@ -23,3 +23,7 @@ h1 {
     filter: none;
     margin: 40px 20px 40px 20px;
 }
+
+.card-group {
+    display: flex;
+}
