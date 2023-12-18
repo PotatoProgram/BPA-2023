@@ -4,24 +4,53 @@ h1 {
 
 /*Events.html styling*/
 
-.bg-image-christmas {
-    position: fixed;
-    left: 0;
-    right: 0;
-    z-index: -1;
-    background: url(/imgs/christmas-Event.jpg) no-repeat;
-    filter: blur(4px) grayscale(20%);
-    background-size: cover;
-    height: 300px;
+.logo {
+    padding-top: 75px;
+    text-align: center;
 }
 
-#content-christmas {
-    position: fixed;
-    left: 0;
-    right: 0;
-    z-index: 1;
-    filter: none;
-    margin: 40px 20px 40px 20px;
+.special-Events {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.special-Event-hr {
+    border: 1px dashed;
+    border-color: black;
+    color: black;
+}
+
+.christmas-hr {
+    color: green;
+    border-color: green;
+}
+
+#christmas-Event {
+    font-weight: bold;
+    color: rgb(224, 13, 13);
+    letter-spacing: 4px;
+    font-size: 40px;
+}
+
+#newyears-Event {
+    font-weight: bold;
+    color: rgb(65, 64, 60);
+    letter-spacing: 4px;
+    font-size: 40px;
+}
+
+.event-Paragraph {
+    color: black;
+    font-size: 20px;
+}
+
+.event-Hours {
+    font-weight: bold;
+}
+
+.events {
+    text-align: center;
+    padding-top: 40px;
 }
 
 .card-group {
