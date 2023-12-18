@@ -2,6 +2,21 @@ h1 {
     text-align: center;
 }
 
+/*Index styling*/
+
+.banner-wide {
+    background-color: aqua; /*fallback color*/
+    height: 200px;
+    width: 100%;
+}
+
+.flagship {
+    height: 50px;
+    background-color: tan; /*fallback color*/
+    margin: 1px;
+    /*todo: figure out how to center the text here*/
+}
+
 /*Events.html styling*/
 
 .logo {
@@ -55,4 +70,8 @@ h1 {
 
 .card-group {
     display: flex;
+}
+iframe{
+    width: 200px;
+    height: 200px;
 }
