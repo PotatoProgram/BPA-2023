@@ -2,6 +2,14 @@ h1 {
     text-align: center;
 }
 
+/*Index styling*/
+
+.banner-wide {
+    background-color: aqua; /*fallback color*/
+    height: 200px;
+    width: 100%;
+}
+
 /*Events.html styling*/
 
 .bg-image-christmas {
