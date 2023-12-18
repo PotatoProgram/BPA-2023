@@ -42,3 +42,7 @@ h1 {
 .card-group {
     display: flex;
 }
+iframe{
+    width: 200px;
+    height: 200px;
+}
