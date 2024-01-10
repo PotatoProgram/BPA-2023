@@ -35,33 +35,41 @@ h1 {
     color: black;
 }
 
-.christmas-hr {
+/* !!EVENT A STYLING!! */
+
+.event-hr_a {
     color: green;
     border-color: green;
 }
 
-#christmas-Event {
+#special-Event_a {
     font-weight: bold;
-    color: rgb(224, 13, 13);
+    color: rgb(65, 64, 60);
     letter-spacing: 4px;
     font-size: 40px;
     
 }
 
-#christmas-Event-Container {
-    background-color: rgb(180, 214, 180);
+#event-Container_a {
+    background-color: rgb(255, 255, 202);
+    background-image: url();
 }
 
-#newyears-Event {
+/* !!EVENT B STYLING!! */
+
+#special-Event_b {
     font-weight: bold;
     color: rgb(65, 64, 60);
     letter-spacing: 4px;
     font-size: 40px;
 }
 
-#newyears-Event-Container {
+#event-Container_b {
     background-color: rgb(255, 255, 202);
+    background-image: url();
 }
+
+/* !!!! */
 
 .menu-Link {
     
