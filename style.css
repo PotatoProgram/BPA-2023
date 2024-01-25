@@ -3,7 +3,8 @@ h1 {
 }
 
 .body {
-    background-image: url(/imgs/simple_bg.png);
+    background-image: url(/imgs/simple_bg3.png);
+    background-size: cover;
     background-repeat: repeat-y;
 }
 
