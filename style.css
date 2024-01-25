@@ -2,6 +2,11 @@ h1 {
     text-align: center;
 }
 
+.body {
+    background-image: url(/imgs/simple_bg.png);
+    background-repeat: repeat-y;
+}
+
 /*Index styling*/
 
 .banner-wide {
@@ -34,7 +39,7 @@ img.logo {
 }
 
 .special-Event-hr {
-    border: 1px dashed;
+    border: 3px solid;
     border-color: black;
     color: black;
 }
@@ -42,20 +47,22 @@ img.logo {
 /* !!EVENT A STYLING!! */
 
 .event-hr_a {
-    color: green;
-    border-color: green;
+    color: orange;
+    border-color: orange;
+    opacity: .9;
 }
 
 #special-Event_a {
     font-weight: bold;
-    color: rgb(65, 64, 60);
+    color: rgb(255, 255, 255);
     letter-spacing: 4px;
     font-size: 40px;
     
 }
 
 #event-Container_a {
-    background-color: rgb(255, 255, 202);
+    background-color: rgb(0, 0, 0);
+    opacity: .7;
     background-image: url();
 }
 
@@ -73,7 +80,16 @@ img.logo {
     background-image: url();
 }
 
+.holiday-Event_hr {
+    color: darkblue;
+    border-color: darkblue;
+}
+
 /* !!!! */
+
+.menu-Link {
+    
+}
 
 .event-Paragraph {
     color: black;
